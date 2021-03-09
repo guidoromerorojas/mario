@@ -1,3 +1,3 @@
-Mario-Bross-Responsive-Build
-starting with media query
-Desktop-First Responsive Design
+Desktop-First Responsive Design starting with media query
+
+
